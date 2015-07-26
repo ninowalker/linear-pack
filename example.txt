@@ -1,0 +1,43 @@
+# front frame
+HR Sq Tube 1.25" x .083	/	131	/ 2
+HR Sq Tube 1.25" x .083	/	100	/ 2
+
+# side frame/ top bottom
+HR Sq Tube 1.25" x .083	/	70	/ 2
+
+# side left
+HR Sq Tube 1.25" x .083	/	62	/ 1
+HR Sq Tube 1.25" x .083	/	40	/ 1
+HR Sq Tube 1.25" x .083	/	10.5	/ 1
+HR Sq Tube 1.25" x .083	/	7.25	/ 2
+
+# side right
+HR Sq Tube 1.25" x .083	/	63.25	/ 1
+HR Sq Tube 1.25" x .083	/	13.5	/ 1
+HR Sq Tube 1.25" x .083	/	35.75	/ 1
+HR Sq Tube 1.25" x .083	/	3.5	/ 2
+
+# Vertical front
+HR Sq Tube 1" x .072	/	95.5	/ 4
+
+# Vertical side
+HR Sq Tube 1" x .072	/	107.5	/ 2
+
+# Horizontal front
+HR Sq Tube 0.75" x .065	/	45.5	/ 2
+HR Sq Tube 0.75" x .065	/	38.5	/ 4
+
+# Horizontal side - verify design
+HR Sq Tube 0.75" x .065	/	33.75	/ 8
+
+
+# Side mount
+HR Flat bar 1.5" x 0.25"	/	5	/ 11
+HR Flat bar 1.5" x 0.25"	/	5	/ 3
+
+# Side plexi
+Plexi 48 x 98 x .222 = 98	/	70	/ 2
+Plexi 48 x 98 x .222 = 48	/	35	/ 2
+
+# Front plexi
+Plexi 48 x 98 x .222 = 98	/	98	/ 3
