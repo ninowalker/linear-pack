@@ -21,8 +21,8 @@ cuts.
 
 # Credits
 
-The original source was pulled from (this stackoverflow
-answer)[http://stackoverflow.com/questions/7392143/python-implementations-of-packing-algorithm]. It
+The original source was pulled from [this stackoverflow
+answer](http://stackoverflow.com/questions/7392143/python-implementations-of-packing-algorithm). It
 has been modifed to fit my project needs.
 
 # License
